@@ -1,6 +1,6 @@
 {
   "name": "@betterthings/plainchart",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A text-based, no-dependencies, open-source charting utility in JavaScript.",
   "main": "plainchart.mjs",
   "keywords": [
