@@ -1,0 +1,24 @@
+{
+  "name": "@betterthings/plainchart",
+  "version": "0.0.0",
+  "description": "A text-based, no-dependencies, open-source charting utility in JavaScript.",
+  "main": "plainchart.mjs",
+  "keywords": [
+    "chart",
+    "plainchart",
+    "plain",
+    "text"
+  ],
+  "author": {
+    "name": "BTD - Better Things Digital GmbH",
+    "email": "hi@betterthings.digital",
+    "url": "https://betterthings.digital"
+  },
+  "contributors": [
+    {
+      "name": "Florian Hämmerle",
+      "email": "florian@betterthings.digital"
+    }
+  ],
+  "license": "MIT"
+}
